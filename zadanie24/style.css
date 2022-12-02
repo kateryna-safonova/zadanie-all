@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f5dd;
+}
+h1 {
+  text-align: center;
+}
+.square {
+  width: 120px;
+  height: 120px;
+  background: black;
+  margin: 0.5rem auto;
+}
+.square-one {
+  background: black;
+}
+.square-two {
+  background: rgb(42, 41, 41);
+}
+.square-three {
+  background: rgb(109, 106, 106);
+}
+.square-four {
+  background: rgb(185, 182, 182);
+}
+

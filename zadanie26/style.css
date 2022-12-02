@@ -1,0 +1,20 @@
+p{
+  width: 120px;
+  height: 120px;
+  background: red;  
+}
+.one{
+    background:blue;
+}
+.two{
+    background: blue;
+}
+.three{
+    background: blue;
+}
+.four{
+    opacity: 0.4;
+}
+.five{
+    opacity: 0.2;
+}
